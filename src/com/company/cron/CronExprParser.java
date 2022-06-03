@@ -17,8 +17,7 @@ public class CronExprParser {
       System.out.println(" Welcome to Cron Expression Parser CLI App");
       System.out.println("*******************************************");
       System.out.println("Please enter your input : ");
-      //String inputLine = sc.nextLine();
-      String inputLine = "0/15 0,2 1,15 * 1-5 /usr/bin/find";
+      String inputLine = sc.nextLine();
       String[] inputExpression = inputLine.split(" ");
       int maxRetries = 3;
       int retryAttempts = 0;
