@@ -53,7 +53,7 @@ Via Github CLLI: gh repo clone mynklink77/Parsers
 1. All or * : It specifies that event should happen for every time unit.
 2. Range or - : It determines the value range.
 3. Values or , : It specifies multiple values.
-4. Increements or / : It specifies the incremental values.
+4. Increments or / : It specifies the incremental values.
 
 #
 ...EOF...
