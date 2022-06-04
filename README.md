@@ -55,6 +55,9 @@ Via Github CLLI: gh repo clone mynklink77/Parsers
 3. Values or , : It specifies multiple values.
 4. Increments or / : It specifies the incremental values.
 
+## References
+Special characters in expression: https://www.baeldung.com/cron-expressions
+
 #
 ...EOF...
 
